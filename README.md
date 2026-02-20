@@ -1,3 +1,3 @@
 # Akoth Webpage
 
-Welcome to the Akoth webpage project.
+Welcome to the naim-ah webpage project.
