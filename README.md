@@ -1,3 +1,3 @@
 # Akoth Webpage
 
-Welcome to the Benardo-001 webpage project.
+Welcome to the Akoth webpage project.
